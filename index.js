@@ -1,3 +1,3 @@
-// run `node index.js` in the terminal
+const mongoose = require('mongoose'); 
 
-console.log(`Hello Node.js v${process.versions.node}!`);
+mongoose.connecdt('mongodb://')
